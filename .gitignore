@@ -1,0 +1,8 @@
+# Ignore data folder and all its contents
+data/
+
+# Ignore stock_sentiment_model.pt
+stock_sentiment_model.pt
+
+# Ignore __MACOSX folder and all its contents
+__MACOSX/
